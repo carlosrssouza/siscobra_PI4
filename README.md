@@ -1,4 +1,3 @@
-# Fundação Cairu - TADAW 2021.2 - Sistema de Cobrança
 Especificação:
 
 Deverá desenvolver um software de acordo ao seu tema utilizando a linguagem Java, especificamente a plataforma JEE (Java Enterprise Edition).
